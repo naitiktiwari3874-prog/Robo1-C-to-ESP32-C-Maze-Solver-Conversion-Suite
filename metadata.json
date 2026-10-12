@@ -1,0 +1,6 @@
+{
+  "name": "Robo1: C to ESP32 C++ Maze Solver Conversion Suite",
+  "description": "Interactive C to ESP32 C++ firmware converter, PID tuner, and 2D maze solver simulator for autonomous line-following robots with QTR-16 and SH1106 OLED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
